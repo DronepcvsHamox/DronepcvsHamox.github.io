@@ -1,4 +1,4 @@
-const countDate = new Date("Jan 10 2022 14:30:55").getTime();
+const countDate = new Date("Sep 12 2022 23:09:00").getTime();
 
 var x = setInterval(function(){
     let now = new Date().getTime();
